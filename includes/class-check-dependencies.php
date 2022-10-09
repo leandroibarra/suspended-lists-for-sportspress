@@ -9,7 +9,7 @@
  *
  * @author	Leandro Ibarra <https://github.com/leandroibarra>
  * @license	GPL2
- * @version	0.0.1
+ * @version	0.0.2
  */
 
 if (!class_exists('Check_Dependencies')) {
@@ -20,7 +20,7 @@ if (!class_exists('Check_Dependencies')) {
 	 *
 	 * @author	Leandro Ibarra
 	 * @license	GPL2
-	 * @version	0.0.1
+	 * @version	0.0.2
 	 */
 	class Check_Dependencies {
 		/**

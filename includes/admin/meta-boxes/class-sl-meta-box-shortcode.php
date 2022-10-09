@@ -7,7 +7,7 @@ if (!defined('ABSPATH')) {
 /**
  * Class SL_Meta_Box_Shortcode.
  *
- * @version	0.0.1
+ * @version	0.0.2
  * @author	Leandro Ibarra
  */
 class SL_Meta_Box_Shortcode {

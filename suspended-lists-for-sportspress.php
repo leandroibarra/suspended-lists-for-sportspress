@@ -9,7 +9,7 @@
  * Text Domain: suspended-lists-for-sportspress
  * Domain Path: /languages/
  *
- * Version: 0.0.1
+ * Version: 0.0.2
  * License: GPL2
  */
 
@@ -19,14 +19,14 @@ if (!class_exists('Suspended_Lists_For_SportsPress')) {
 	 *
 	 * Extends SportsPress existing plugin.
 	 *
-	 * @version	0.0.1
+	 * @version	0.0.2
 	 * @author	Leandro Ibarra
 	 */
 	class Suspended_Lists_For_SportsPress {
 		/**
 		 * @var string
 		 */
-		public $version = '0.0.1';
+		public $version = '0.0.2';
 
 		/**
 		 * @var string
